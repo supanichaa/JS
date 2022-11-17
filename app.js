@@ -1,7 +1,6 @@
-const app = require('app')
+const nodeHello = document.querySelector("#helloword");
 
-let firstnamee = prompt("กรอกชื่อออ")
-console.log(firstnamee)
+const firstname = prompt("กรอกชื่อออ");
+const Hello = `Hello ${firstname}`;
 
-
-        
+nodeHello.innerHTML = firstname;
