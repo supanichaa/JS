@@ -1,4 +1,4 @@
-let firstname = prompt("กรอกชื่อออ")
-console.log(firstname)
+let firstnamee = prompt("กรอกชื่อออ")
+console.log(firstnamee)
 
         
