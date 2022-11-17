@@ -1,7 +1,8 @@
-const app = require('app')
+// const app = require('app')
 
-let firstnamee = prompt("กรอกชื่อออ")
-console.log(firstnamee)
+const firstname = prompt("กรอกชื่อออ")
+
+console.log(`Hello ${firstname}`)
 
 
         
